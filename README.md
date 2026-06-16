@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Esa mirada pecadora me tiene al borde de caer
+> Una noche en la discoteca y yo te quiero convencer
+> Bailando suave en lo oscuro, tú sabes lo que va a pasar
+> Acércate un poco más, que hoy no te vas a escapar
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
