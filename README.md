@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/mirada-pecadora/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Mirada pecadora](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/mirada-pecadora/) |
+| **Get License** | [Get License For Mirada pecadora](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/mirada-pecadora/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `f698ca35a5f330afe884121be73e3f8db39941f5b8daef91eb1b6fac3546cce8` |
 | **Timestamp** | June 16, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

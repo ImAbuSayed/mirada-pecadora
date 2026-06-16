@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Mirada pecadora
+
+This log tracks the cryptographic history and versioning for the song **Mirada pecadora** (mirada-pecadora).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-16T23:10:38.517217 | `v1` | `f698ca35a5f330afe884121be73e3f8db39941f5b8daef91eb1b6fac3546cce8` | `90652cdd1993e45121eb012d2d6be1a4eaa917d55c868c2739b17127314e42cb` | `2026-06-16_mirada-pecadora-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
